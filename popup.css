@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+#wrapper{
+    width: 300px;
+    text-align: center;
+
+}
+
+#btn{
+    width: 200px;
+    height: 40px;
+    background-color: yellow;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
